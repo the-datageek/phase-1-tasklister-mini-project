@@ -35,23 +35,3 @@ form.addEventListener("submit", function(event) {
 
 
 
-
-
-
-//document.addEventListener("DOMContentLoaded", () => {
-  // your code here
-  //Type task
-function myFunction(){
-  var x = document.getElementById("text").value;
-}
-console.log("myFunction");
-
-//click submit button
-function submitButton(){
-  document.querySelector(".create-task-form")
-
-}  
-
-
-//make task appear on DOM
-
